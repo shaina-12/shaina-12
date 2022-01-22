@@ -1,6 +1,6 @@
-### Hi! I am shain Mehta.👋
+### Hi! I am shain Mehta. :Hello:
 
-## I am a student of Amity University, Noida.
+## :Stars: I am a student of Amity University, Noida. :Stars:
 
 Here are some ideas to get you started:
 
