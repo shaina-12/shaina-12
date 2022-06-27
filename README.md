@@ -24,6 +24,11 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
  
+ ### 😍 Profile Views:
+
+<img width="20%" src="https://profile-counter.glitch.me/{Manasi2001}/count.svg" /> 
+
+ 
 <h3 align="left">Github Stats📈:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaina-12&show_icons=true&locale=en&layout=compact" alt="shaina-12" /></p>
 
