@@ -26,7 +26,7 @@
  
  ### 😍 Profile Views:
 
-<img width="20%" src="https://profile-counter.glitch.me/{Manasi2001}/count.svg" /> 
+<img width="20%" src="https://profile-counter.glitch.me/{shaina-12}/count.svg" /> 
 
  
 <h3 align="left">Github Stats📈:</h3>
