@@ -20,6 +20,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white)
  
 <h3 align="left">Github Stats📈:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaina-12&show_icons=true&locale=en&layout=compact" alt="shaina-12" /></p>
