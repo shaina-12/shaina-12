@@ -38,4 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaina-12&" alt="shaina-12" /></p>
 
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=shaina-12&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shaina-12)](https://github.com/ryo-ma/github-profile-trophy)
