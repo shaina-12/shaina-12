@@ -37,5 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaina-12&" alt="shaina-12" /></p>
 
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=shaina-12&" alt="shaina-12" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaina-12)](https://github.com/ryo-ma/github-profile-trophy)
+
