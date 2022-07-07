@@ -32,9 +32,10 @@
 <h3 align="left">Github Stats📈:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaina-12&show_icons=true&locale=en&layout=compact" alt="shaina-12" /></p>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=shaina-12&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaina-12&show_icons=true&locale=en" alt="shaina-12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaina-12&" alt="shaina-12" /></p>
 
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=shaina-12&row=1)](https://github.com/ryo-ma/github-profile-trophy)
