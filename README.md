@@ -2,6 +2,8 @@
 
 <h3 align="center">⚡Student of Amity Univeristy Noida⚡</h3>
 
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
+
 <h3 align="left">Connect with me:📫</h3>
 <p align="left">
 
@@ -23,8 +25,6 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
- 
- <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
  
  ### 😍 Profile Views:
 
