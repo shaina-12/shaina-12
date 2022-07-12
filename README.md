@@ -2,8 +2,6 @@
 
 <h3 align="center">⚡Student of Amity Univeristy Noida⚡</h3>
 
-<p>
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/fan-1.gif' align='rigth'/>
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'/>
 
 <h3 align="left">Connect with me:📫</h3>
