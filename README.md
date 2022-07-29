@@ -49,7 +49,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
@@ -74,4 +73,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-https://www.canva.com/design/DAFGfzY5Cj4/BGSV01kmXzBLqTjAVlisUw/view?utm_content=DAFGfzY5Cj4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
