@@ -8,7 +8,12 @@
 <p align="left">
 
 
-<a href="https://www.linkedin.com/in/shaina-mehta-9319aa1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaina-mehta-9319aa1a8" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/shaina-mehta-9319aa1a8/">
+  <img
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 <h3 align="left">Languages and Tools:💻</h3>
 
