@@ -79,4 +79,20 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-
+### Links to My Projects:
+1. Movie recommendation System Using Machine Learning: https://github.com/shaina-12/Movie-Recommendation-System.git
+2. Digital Watermarking Techniques to Hide Text Messages (Image Steganography): https://github.com/shaina-12/Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project.git
+3. Fake News Detection: https://github.com/shaina-12/Fake-News-Detection.git
+4. Jugaru Mini Compiler: https://github.com/shaina-12/Jugaru-Mini-Compiler.git
+5. Knee Osteoarthritis Detection and Severity Prediction Using Machine Learning: https://github.com/shaina-12/Knee-Ostheoarthritis-Detection-and-Severity-Prediction.git
+### Links to Repositories Related to Data Structures and Algorithms, AI/ML, Programming etc.:
+1. Data Structure and Algorithms: https://github.com/shaina-12/Data-Structures-And-Algorithms-Codes.git
+2. Programming: https://github.com/shaina-12/Programming-.git
+3. Artificial Intelligence: https://github.com/shaina-12/Artificial-Intelligence.git
+4. Compiler Design: https://github.com/shaina-12/Compiler-Construction.git
+5. Fundamentals of Machine Learning: https://github.com/shaina-12/Fundamentals-of-Machine-Learning.git
+6. PyTorch Tuitorials: https://github.com/shaina-12/Pytorch-Tuitorials.git
+7. Image Processing and Computer Vision Tuitorials: https://github.com/shaina-12/Image-Processing-and-Computer-Vision-Tuitorials.git
+8. Lab Files: https://github.com/shaina-12/Lab-Files.git
+9. Data Mining and Business Intelligence: https://github.com/shaina-12/Data-Mining-and-Business-Intelligence.git
+10. Deep Learning and Artificial Intelligence Amity Future Acadmy Course Solutions: https://github.com/shaina-12/Deep-Learning-and-Artificial-Intelligence-Amity-Future-Acadmy-Course-Solutions.git
