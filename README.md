@@ -85,6 +85,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 3. Fake News Detection: https://github.com/shaina-12/Fake-News-Detection.git
 4. Jugaru Mini Compiler: https://github.com/shaina-12/Jugaru-Mini-Compiler.git
 5. Knee Osteoarthritis Detection and Severity Prediction Using Machine Learning: https://github.com/shaina-12/Knee-Ostheoarthritis-Detection-and-Severity-Prediction.git
+6. Face Recognition using Transfer Learning: https://github.com/shaina-12/Face-Recognition-Using-Transfer-Learning.git
 ### Links to Repositories Related to Data Structures and Algorithms, AI/ML, Programming etc.:
 1. Data Structure and Algorithms: https://github.com/shaina-12/Data-Structures-And-Algorithms-Codes.git
 2. Programming: https://github.com/shaina-12/Programming-.git
