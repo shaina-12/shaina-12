@@ -1,6 +1,6 @@
 ### Hi there, I am Shaina Mehta 👋 
 
-<h3 align="center">⚡Final Year Student at Amity Univeristy Noida⚡</h3>
+<h3 align="center">⚡⚡</h3>
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'/>
 
