@@ -84,7 +84,9 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 2. Digital Watermarking Techniques to Hide Text Messages (Image Steganography): https://github.com/shaina-12/Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project.git
 3. Fake News Detection: https://github.com/shaina-12/Fake-News-Detection.git
 4. Jugaru Mini Compiler: https://github.com/shaina-12/Jugaru-Mini-Compiler.git
-5. Knee Osteoarthritis Detection and Severity Prediction Using Machine Learning: https://github.com/shaina-12/Knee-Ostheoarthritis-Detection-and-Severity-Prediction.git
+5. Knee Osteoarthritis Detection and Severity Prediction Using Machine Learning: 
+(a) https://github.com/shaina-12/Knee-Ostheoarthritis-Detection-and-Severity-Prediction.git
+(b) https://github.com/shaina-12/KneeNet.git
 6. Face Recognition using Transfer Learning: https://github.com/shaina-12/Face-Recognition-Using-Transfer-Learning.git
 ### Links to Repositories Related to Data Structures and Algorithms, AI/ML, Programming etc.:
 1. Data Structure and Algorithms: https://github.com/shaina-12/Data-Structures-And-Algorithms-Codes.git
