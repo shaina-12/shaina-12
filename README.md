@@ -79,7 +79,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-### Links to My Projects:
+### Links to My Projects Done in Amity University:
 1. Movie recommendation System Using Machine Learning: https://github.com/shaina-12/Movie-Recommendation-System.git
 2. Digital Watermarking Techniques to Hide Text Messages (Image Steganography): https://github.com/shaina-12/Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project.git
 3. Fake News Detection: https://github.com/shaina-12/Fake-News-Detection.git
@@ -88,7 +88,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 (a) https://github.com/shaina-12/Knee-Ostheoarthritis-Detection-and-Severity-Prediction.git
 (b) https://github.com/shaina-12/KneeNet.git
 6. Face Recognition using Transfer Learning: https://github.com/shaina-12/Face-Recognition-Using-Transfer-Learning.git
-### Links to Repositories Related to Data Structures and Algorithms, AI/ML, Programming etc.:
+### Links to Repositories Related to Data Structures and Algorithms, AI/ML, Programming etc. Done in Amity University:
 1. Data Structure and Algorithms: https://github.com/shaina-12/Data-Structures-And-Algorithms-Codes.git
 2. Programming: https://github.com/shaina-12/Programming-.git
 3. Artificial Intelligence: https://github.com/shaina-12/Artificial-Intelligence.git
@@ -99,3 +99,26 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 8. Lab Files: https://github.com/shaina-12/Lab-Files.git
 9. Data Mining and Business Intelligence: https://github.com/shaina-12/Data-Mining-and-Business-Intelligence.git
 10. Deep Learning and Artificial Intelligence Amity Future Acadmy Course Solutions: https://github.com/shaina-12/Deep-Learning-and-Artificial-Intelligence-Amity-Future-Acadmy-Course-Solutions.git
+### Links to My Projects done in IIIT Delhi:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+### Links to the Assignments done in IIIT Delhi:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
