@@ -100,25 +100,15 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 9. Data Mining and Business Intelligence: https://github.com/shaina-12/Data-Mining-and-Business-Intelligence.git
 10. Deep Learning and Artificial Intelligence Amity Future Acadmy Course Solutions: https://github.com/shaina-12/Deep-Learning-and-Artificial-Intelligence-Amity-Future-Acadmy-Course-Solutions.git
 ### Links to My Projects done in IIIT Delhi:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Emotion Cause Analysis: https://github.com/shaina-12/NLP-Project---Group-25.git
+2. Interactive Story generation: https://github.com/shaina-12/Interactive-Story-Generation.git
+3. Object-Oriented Programming and Design Project (Development of Linux Shell): https://github.com/shaina-12/MT23144_MT23139_oopd__project.git
 ### Links to the Assignments done in IIIT Delhi:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-
+1. Information Retrieval Assignment 4: https://github.com/shaina-12/CSE508_Winter2024_A4_MT23139.git
+2. Information Retrieval Assignment 3: https://github.com/shaina-12/CSE508_Winter2024_A3_MT23139.git
+3. Information Retrieval Assignment 2: https://github.com/shaina-12/CSE508_Winter2024_A2_MT23139.git
+4. Information Retrieval Assignment 1: https://github.com/shaina-12/CSE508_Winter2024_A1_MT23139.git
+5. Object-Oriented Programming and Design Assignment 1: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-1.git
+6. Object-Oriented Programming and Design Assignment 2: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-2.git
+7. Object-Oriented Programming and Design Assignment 3: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-3.git
+8. Object-Oriented Programming and Design Assignment 4: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-4.git
