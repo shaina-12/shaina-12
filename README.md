@@ -101,6 +101,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 10. Deep Learning and Artificial Intelligence Amity Future Acadmy Course Solutions: https://github.com/shaina-12/Deep-Learning-and-Artificial-Intelligence-Amity-Future-Acadmy-Course-Solutions.git
 ### Links to My Projects done in IIIT Delhi:
 1. Object-Oriented Programming and Design Project (Development of Linux Shell): https://github.com/shaina-12/MT23144_MT23139_oopd__project.git
+2. Information Retrieval Project (Interactive Story Generation Project): https://github.com/shaina-12/Interactive-Story-Generation.git
+3. Natural Language Processing Project (Emotion Cause Analysis using Textual Data): https://github.com/shaina-12/NLP-Project---Group-25.git
 ### Links to the Assignments done in IIIT Delhi:
 1. Object-Oriented Programming and Design Assignment 1: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-1.git
 2. Object-Oriented Programming and Design Assignment 2: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-2.git
