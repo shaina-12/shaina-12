@@ -79,32 +79,16 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
+
+### Links to My Projects done in IIIT Delhi:
+1. Examination of Capabilities Large Language Models on Physics and Mathematics Dataset: Repository is Private
+2. Mental Health Recognition using Multi-Modal Large Language Models: Repository is Private
+3. Interactive Story Generation: https://github.com/shaina-12/Interactive-Story-Generation.git
+4. Depression Detection and Analysis: Repository is Private
+
+
 ### Links to My Projects Done in Amity University:
-1. Movie recommendation System Using Machine Learning: https://github.com/shaina-12/Movie-Recommendation-System.git
-2. Digital Watermarking Techniques to Hide Text Messages (Image Steganography): https://github.com/shaina-12/Image-Steganography---Digital-Watermarking-to-Hide-Text-Messages---Networking-5th-Sem-Project.git
-3. Fake News Detection: https://github.com/shaina-12/Fake-News-Detection.git
-4. Jugaru Mini Compiler: https://github.com/shaina-12/Jugaru-Mini-Compiler.git
-5. Knee Osteoarthritis Detection and Severity Prediction Using Machine Learning: 
+1. Knee Osteoarthritis Detection and Severity Prediction Using Machine Learning: 
 (a) https://github.com/shaina-12/Knee-Ostheoarthritis-Detection-and-Severity-Prediction.git
 (b) https://github.com/shaina-12/KneeNet.git
-6. Face Recognition using Transfer Learning: https://github.com/shaina-12/Face-Recognition-Using-Transfer-Learning.git
-### Links to Repositories Related to Data Structures and Algorithms, AI/ML, Programming etc. Done in Amity University:
-1. Data Structure and Algorithms: https://github.com/shaina-12/Data-Structures-And-Algorithms-Codes.git
-2. Programming: https://github.com/shaina-12/Programming-.git
-3. Artificial Intelligence: https://github.com/shaina-12/Artificial-Intelligence.git
-4. Compiler Design: https://github.com/shaina-12/Compiler-Construction.git
-5. Fundamentals of Machine Learning: https://github.com/shaina-12/Fundamentals-of-Machine-Learning.git
-6. PyTorch Tuitorials: https://github.com/shaina-12/Pytorch-Tuitorials.git
-7. Image Processing and Computer Vision Tuitorials: https://github.com/shaina-12/Image-Processing-and-Computer-Vision-Tuitorials.git
-8. Lab Files: https://github.com/shaina-12/Lab-Files.git
-9. Data Mining and Business Intelligence: https://github.com/shaina-12/Data-Mining-and-Business-Intelligence.git
-10. Deep Learning and Artificial Intelligence Amity Future Acadmy Course Solutions: https://github.com/shaina-12/Deep-Learning-and-Artificial-Intelligence-Amity-Future-Acadmy-Course-Solutions.git
-### Links to My Projects done in IIIT Delhi:
-1. Object-Oriented Programming and Design Project (Development of Linux Shell): https://github.com/shaina-12/MT23144_MT23139_oopd__project.git
-2. Information Retrieval Project (Interactive Story Generation Project): https://github.com/shaina-12/Interactive-Story-Generation.git
-3. Natural Language Processing Project (Emotion Cause Analysis using Textual Data): https://github.com/shaina-12/NLP-Project---Group-25.git
-### Links to the Assignments done in IIIT Delhi:
-1. Object-Oriented Programming and Design Assignment 1: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-1.git
-2. Object-Oriented Programming and Design Assignment 2: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-2.git
-3. Object-Oriented Programming and Design Assignment 3: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-3.git
-4. Object-Oriented Programming and Design Assignment 4: https://github.com/shaina-12/MT23139-Shaina-Mehta-Object-Oriented-Programming-and-Design-Assignment-4.git
+2. Fake News Detection: https://github.com/shaina-12/Fake-News-Detection.git 
