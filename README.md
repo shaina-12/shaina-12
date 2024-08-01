@@ -78,17 +78,3 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
-
-
-### Links to My Projects done in IIIT Delhi:
-1. Examination of Capabilities Large Language Models on Physics and Mathematics Dataset: Repository is Private
-2. Mental Health Recognition using Multi-Modal Large Language Models: Repository is Private
-3. Interactive Story Generation: https://github.com/shaina-12/Interactive-Story-Generation.git
-4. Depression Detection and Analysis: Repository is Private
-
-
-### Links to My Projects Done in Amity University:
-1. Knee Osteoarthritis Detection and Severity Prediction Using Machine Learning: 
-(a) https://github.com/shaina-12/Knee-Ostheoarthritis-Detection-and-Severity-Prediction.git
-(b) https://github.com/shaina-12/KneeNet.git
-2. Fake News Detection: https://github.com/shaina-12/Fake-News-Detection.git 
