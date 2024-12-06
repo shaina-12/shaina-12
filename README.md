@@ -79,7 +79,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-## ⚠️ Inportant Note: 
+### ⚠️ Important Note: 
 
 1. You are not allowed to clone and use the code of the repository titled "Multimodal LLM for Mental Health Detection and Analysis" since the research on this topic is going on as part of my M.tech. Capstone Project, Independent Project and Independent Study and we are about to publish the paper in A Star Conference. Do not also copy the code and our work of the above mentioned repository.
 
