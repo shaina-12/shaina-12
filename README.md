@@ -84,5 +84,3 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 1. You are not allowed to clone and use the code of the repository titled "Multimodal LLM for Mental Health Detection and Analysis" since the research on this topic is going on as part of my M.tech. Capstone Project, Independent Project and Independent Study and we are about to publish the paper in A Star Conference / Arxiv. Do not also copy the code and our work of the above mentioned repository.
 
 2. Most of the repositories in github are forked by me for research and learning purpose. Please do'nt assume that I am open source contributor. I am not open source contributor but will start that work soon if I get time.
-
-3. I am publically releasing my portfolio website since somebody is try to copy my project repositories and claim their ownership which will caue more academic threat to me. This portfolio is underdevelopment. I will update it from time to time.
